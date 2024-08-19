@@ -1,5 +1,6 @@
 <!-- modrinth_exclude.start -->
 WorldEditCUI
+1.21 action build
 ------------
 
 [![Actions Status](https://github.com/EngineHub/WorldEditCUI/actions/workflows/build.yml/badge.svg)](https://github.com/EngineHub/WorldEditCUI/actions/workflows/build.yml)
